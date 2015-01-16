@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Meteor-6to5}
+# Meteor-6to5
  
 Turn es6 to vanilla es5 using 6to5 in your meteor app.
  
@@ -31,6 +29,3 @@ TODO: Write credits
 ## License
  
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
